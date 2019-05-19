@@ -120,7 +120,7 @@ This group is used in several of the how-to processes that are available in the 
     ![MDM policy – West Overview page with Delete link highlighted](media/active-directory-groups-view-azure-portal/group-overview-blade-delete.png)
 
     >[!Important]
-    >This doesn't delete the user Alain Charon, just his membership in the deleted group.
+    >This doesn't delete the user Alain Charon, just their membership in the deleted group.
 
 ## Next steps
 Advance to the next article to learn how to associate a subscription to your Azure AD directory.
